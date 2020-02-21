@@ -30,3 +30,4 @@ override.tf.json
 variable.secret.tf
 tags
 some sensitive shit
+tags
